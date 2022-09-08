@@ -1,3 +1,11 @@
 Bob
 PyProto2
 free-net-vpn2
+collections
+time
+oslo_serialization 
+jsonutils
+requests
+six
+scciclient.irmc
+scci
