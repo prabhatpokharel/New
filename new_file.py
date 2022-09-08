@@ -2,6 +2,7 @@ import tkinter
 import threading
 from tkinter import messagebox
 import sys
+import Bob
 
 tasks = []
 timer = threading
