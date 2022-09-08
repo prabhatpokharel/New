@@ -9,3 +9,4 @@ requests
 six
 scciclient.irmc
 scci
+django<=1.0
